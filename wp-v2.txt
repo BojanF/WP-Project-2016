@@ -1,0 +1,21 @@
+-conflicts from last merge are resolved
+-project is compiling
+-(AngularJS)created components 
+	->course-select
+	->professor-select
+	->student-select
+-(AngularJS) / (view/state.js/controller.js/remote.service.js) added functionalities for 
+	->CRUD course
+	->CRUD professor
+	->CRUD lab groups
+	->CRUD students
+	->professor-grades
+	->student-grades
+	->new-grade
+-(Java) Controller/Service/Repository 
+	->Course
+	->Professor
+	->Student
+	->Grade
+-(Java) created GradeServiceTest (not completed)
+-(Java) deleted duplicated controllers, services, interfaces created from BojanF
